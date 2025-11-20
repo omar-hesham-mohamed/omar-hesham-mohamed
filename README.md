@@ -22,7 +22,7 @@ I'm currently a Computer and Communication Engineering student at **Alexandria U
 
 #### 1. Full-Stack Development
 
-* **Team Lead, Intelligent Product Comparison Platform** (Oct 2025 - Present): Leading the design and implementation of a multi-source product aggregation system using text and image-based search queries. I architect and develop scalable web scraping pipelines, handling dynamic content and data normalization.
+* **Team Lead, Intelligent Product Comparison Platform, Partenered with eSpace** (Oct 2025 - Present): Leading the design and implementation of a multi-source product aggregation system using text and image-based search queries. I architect and develop scalable web scraping pipelines, handling dynamic content and data normalization.
 * **Velura eCommerce Website** (Aug 2025 - Present): Co-founding a startup and developing the full-stack eCommerce web application using Agile methodologies.
     * **Backend:** Designed the backend with **Nest.JS**, **PostgreSQL** (via **Prisma ORM**), **Redis** for sessions, and integrated PayMob and Nodemailer.
     * **Frontend:** Currently building the frontend with **Next.js**.
