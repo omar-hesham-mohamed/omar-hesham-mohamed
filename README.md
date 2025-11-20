@@ -37,12 +37,12 @@ I'm currently a Computer and Communication Engineering student at **Alexandria U
 ### 🌟 Extracurricular & Skills
 
 * **Computer Vision Team, AlexEagles** (Aug 2025 - Present): Building a model for the SUAS Competition.
-* * **PR Team, IEEE AlexSB** (Oct 2023 - Jul 25): Building a model for the SUAS Competition.
+* **PR Team, IEEE AlexSB** (Oct 2023 - Jul 25): Building a model for the SUAS Competition.
 * **Certificates:** Machine Learning Specialization, The Complete Full-Stack Web Development Bootcamp, CCNA, AWS Cloud Computing.
 
 ---
 
 ### 🌐 Let's Connect!
 
-* [cite_start]**LinkedIn:** https://www.linkedin.com/in/omar-hesham-26497927b/ [cite: 3]
-* [cite_start]**Email:** omarhesham2776@gmail.com [cite: 2]
+* **LinkedIn:** https://www.linkedin.com/in/omar-hesham-26497927b/
+* **Email:** omarhesham2776@gmail.com
