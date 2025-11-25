@@ -37,7 +37,7 @@ I'm currently a Computer and Communication Engineering student at **Alexandria U
 ### 🌟 Extracurricular & Skills
 
 * **Computer Vision Team, AlexEagles** (Aug 2025 - Present): Building a model for the SUAS Competition.
-* **PR Team, IEEE AlexSB** (Oct 2023 - Jul 25): Building a model for the SUAS Competition.
+* **PR Team, IEEE AlexSB** (Oct 2023 - Jul 25)
 * **Certificates:** Machine Learning Specialization, The Complete Full-Stack Web Development Bootcamp, CCNA, AWS Cloud Computing.
 
 ---
