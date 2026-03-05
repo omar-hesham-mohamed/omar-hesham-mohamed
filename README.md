@@ -1,48 +1,140 @@
-## 👋 Hi there, I'm **Omar Metwally**!
+# 👋 Hi, I'm **Omar Hesham Metwally**
 
-I am a **Full-stack software engineer** with expertise in **distributed systems (Go)** and **web development (React/Node.js)**. I have a proven track record of delivering scalable projects and thrive in agile environments.
+Backend-focused **Software Engineer** specializing in **distributed
+systems, scalable APIs, and data-intensive platforms**.
 
-I'm currently a Computer and Communication Engineering student at **Alexandria University** (expected graduation 2026, CGPA $3.72$).
+I build production systems using **Node.js, Go, PostgreSQL, Redis, and
+Docker**, with experience designing architectures for high-volume data
+processing and search.
 
----
+Currently: - Backend Engineer at **SkorSync** - Computer & Communication
+Engineering student at **Alexandria University** (CGPA **3.72**,
+graduating **2026**, Minor in **AI**)
 
-### 💻 My Core Expertise
+------------------------------------------------------------------------
 
-| Category | Expert Tools | Familiar Tools |
-| :--- | :--- | :--- |
-| **Languages** | JavaScript, Go, Java, C/C++, Python, SQL, HTML, CSS, PHP |
-| **Frontend** | ReactJS, Bootstrap  | Tailwind, TypeScript |
-| **Backend/Frameworks** | NodeJS, NestJS, Laravel, ExpressJS | AWS, microservices  |
-| **Database/ORM** | PostgreSQL, Prisma, MySQL |
-| **DevOps/Tools** | Git/Github, Docker, API/REST, Scrum/Agile, OAuth | unit-testing, Jira, CI/CD, Github Actions, Docker Compose, Kubernetes |
+# ⚙️ Technical Skills
 
----
+### Languages
 
-### 🚀 Key Projects & Experience
+JavaScript / TypeScript • Go • Python • Java • C/C++ • SQL • PHP • HTML/CSS
 
-#### 1. Full-Stack Development
+### Backend & Systems
 
-* **Team Lead, Intelligent Product Comparison Platform, Partenered with eSpace** (Oct 2025 - Present): Leading the design and implementation of a multi-source product aggregation system using text and image-based search queries. I architect and develop scalable web scraping pipelines, handling dynamic content and data normalization.
-* **Velura eCommerce Website** (Aug 2025 - Present): Co-founding a startup and developing the full-stack eCommerce web application using Agile methodologies.
-    * **Backend:** Designed the backend with **Nest.JS**, **PostgreSQL** (via **Prisma ORM**), **Redis** for sessions, and integrated PayMob and Nodemailer.
-    * **Frontend:** Currently building the frontend with **Next.js**.
+Node.js • NestJS • REST APIs • Distributed Systems • Microservices • OAuth
 
-#### 2. Distributed Systems & Networking
+### Data & Infrastructure
 
-* **Replicated Key-Value Service using Primary-Backup** (May 2025): Implemented replicated servers in **Go** to hold data and manage simulated failures using log replication and concurrency control.
-* **TCP using UDP** (May 2025): Added functionality to UDP using **Python** and Socket Programming to create a reliable data transfer algorithm with ordered packet transmission, retransmission on failure, and congestion control.
+PostgreSQL • MySQL • Redis • Elasticsearch • Prisma • TypeORM
 
----
+### DevOps & Tooling
 
-### 🌟 Extracurricular & Skills
+Docker • Docker Compose • Git • Agile / Scrum • Jira
 
-* **Computer Vision Team, AlexEagles** (Aug 2025 - Present): Building a model for the SUAS Competition.
-* **PR Team, IEEE AlexSB** (Oct 2023 - Jul 25)
-* **Certificates:** Machine Learning Specialization, The Complete Full-Stack Web Development Bootcamp, CCNA, AWS Cloud Computing.
+### Data Engineering / Scraping
 
----
+Scrapy • Selenium • Web Data Pipelines
 
-### 🌐 Let's Connect!
+------------------------------------------------------------------------
 
-* **LinkedIn:** https://www.linkedin.com/in/omar-hesham-26497927b/
-* **Email:** omarhesham2776@gmail.com
+# 💼 Experience
+
+## Backend Engineer --- SkorSync
+
+**Jan 2026 -- Present**
+
+Building a **high-scale student analytics platform**.
+
+Key contributions: - Designed **performance-optimized PostgreSQL
+schemas** with composite indexing and cursor pagination - Achieved
+**sub-second queries** on large attendance datasets - Implemented
+**contract-first APIs with OpenAPI** - Built **async analytics
+processing pipelines using Redis + BullMQ** - Containerized full stack
+using **Docker Compose**
+
+------------------------------------------------------------------------
+
+## Software Engineering Intern --- RMZTech
+
+**Jul 2023 -- Aug 2023**
+
+Developed a **full-stack social media platform** using Laravel and
+MySQL.
+
+Highlights: - Role-based admin system and privacy features - Real-time
+user synchronization - Delivered project **40% faster than cohort
+average**
+
+------------------------------------------------------------------------
+
+# 🚀 Projects
+
+## Intelligent Product Comparison Platform (Graduation Project)
+
+Team lead for a **multi-source product aggregation platform** supporting
+**text and image search**.
+
+Architecture highlights: - Scraping pipelines using **Scrapy +
+Selenium** - Collected **20k+ products with 98% accuracy** - Search
+system using **Elasticsearch + CLIP embeddings** - Azure-hosted database
+with structured schema design - Agile coordination with **eSpace
+stakeholders**
+
+------------------------------------------------------------------------
+
+## Velura --- eCommerce Platform
+
+Production-grade **eCommerce backend**.
+
+Tech stack: - **NestJS** - **PostgreSQL + Prisma** - **Redis session
+management** - **PayMob payments** - **Nodemailer transactional emails**
+
+------------------------------------------------------------------------
+
+## Replicated Key-Value Store
+
+Distributed key-value system built in **Go + gRPC**.
+
+Features: - Primary-backup replication - Log replication - Concurrency
+control - Simulated failure recovery
+
+------------------------------------------------------------------------
+
+## Concurrency & IPC Systems Suite
+
+Systems programming implementations in **C++**:
+
+-   Producer-Consumer system using **System V shared memory**
+-   **POSIX thread parallelization** of Conway's Game of Life
+-   Real-time performance monitoring dashboard
+
+------------------------------------------------------------------------
+
+# 🧠 Extracurricular
+
+**AlexEagles --- Computer Vision Team**\
+Working on perception systems for the **SUAS drone competition**.
+
+Contributions: - Generated **10k+ synthetic training images** -
+Benchmarked object-tracking models for aerial robotics tasks
+
+------------------------------------------------------------------------
+
+# 📜 Certifications
+
+-   Machine Learning Specialization --- DeepLearning.ai
+-   CCNA --- Cisco
+-   Full-Stack Web Development Bootcamp
+
+------------------------------------------------------------------------
+
+# 🌐 Connect
+
+GitHub\
+https://github.com/omar-hesham-mohamed
+
+LinkedIn\
+https://linkedin.com/in/omar-hesham-26497927b
+
+Email\
+omarhesham2776@gmail.com
