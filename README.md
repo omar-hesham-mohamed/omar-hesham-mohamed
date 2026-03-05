@@ -69,7 +69,7 @@ average**
 
 # 🚀 Projects
 
-## Intelligent Product Comparison Platform (Graduation Project)
+## Intelligent Product Comparison App (Graduation Project) --- Partnered with eSpace
 
 Team lead for a **multi-source product aggregation platform** supporting
 **text and image search**.
